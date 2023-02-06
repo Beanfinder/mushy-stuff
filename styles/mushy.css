@@ -1,0 +1,12 @@
+body{
+    background-color: #6d7f6d;
+    color: antiquewhite;
+    font-size: 400%;
+    padding-left: 500px;
+    padding-top: 200px;
+}
+img{
+    padding-right: 50px;
+    max-width: 50%;
+    height: auto;
+}
